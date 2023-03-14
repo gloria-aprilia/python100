@@ -1,0 +1,13 @@
+{
+    "error_input": {
+        "indonesian": "Data yang kamu masukkan tidak sesuai. Coba lagi."
+    },
+    
+    "welcome": {
+        "indonesian": "Selamat datang di azab generator!"
+    },
+
+    "month": {
+        "indonesian": "Masukkan bulan lahir kamu:"
+    }
+}
