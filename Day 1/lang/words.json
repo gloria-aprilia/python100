@@ -6,8 +6,24 @@
     "welcome": {
         "indonesian": "Selamat datang di azab generator!"
     },
+    
+    "result": {
+        "indonesian": "Azab kamu adalah: "
+    }, 
+
+    "closing": {
+        "indonesian": "Tekan enter untuk keluar."
+    }, 
 
     "month": {
-        "indonesian": "Masukkan bulan lahir kamu:"
+        "indonesian": "Masukkan bulan lahir kamu: "
+    }, 
+    
+    "number": {
+        "indonesian": "Masukkan angka terakhir tanggal lahir kamu: "
+    }, 
+
+    "letter": {
+        "indonesian": "Masukkan huruf pertama nama depan kamu: "
     }
-}
+} 
